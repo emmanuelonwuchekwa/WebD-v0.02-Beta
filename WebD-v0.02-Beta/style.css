@@ -1,0 +1,103 @@
+/* styln header display */
+.header{
+    text-align: center;
+    padding: 15px;
+
+}
+.contn .header .p1{
+    display: inline;
+    
+}
+.contn .header .p1 a{
+    margin: 20px;
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+/* styln body1 */
+.contn .body1{
+    text-align: center;
+    background-color: blue;
+    padding: 15px;
+    padding-bottom: 27px;
+}
+.contn .body1 h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-weight: bold;
+}
+.contn .body1 p{
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.contn .body1 .sp1{
+    padding: 6px 6px;
+    padding-left: 6px;
+    padding-right: 10px;
+    border-radius: 10px;
+    background-color:orangered;
+    
+}
+.sp1:hover{
+    letter-spacing: 3px;
+}
+.contn .body1 .a1{
+    text-decoration: none;
+    color: white;
+}
+/* Styln body2 */
+.contn .body2{
+    text-align: center;
+    background: white;
+}
+.contn .body2 .img1{
+    width: 500px;
+    height: 270px;
+}
+/* Styln body3 */
+.contn .body3{
+    text-align: center;
+    background: rgb(226, 222, 222);
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.contn .body3 .img2{
+    border-radius:50%;
+    width: 350px;
+    height: 270px;
+}
+.contn .body3 p{
+    color: rgb(12, 77, 77);
+}
+/* Styln footer1 */
+.contn .footer1{
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* Styln footer2 */
+.contn .footer2{
+    background: blue;
+    text-align: center;
+    padding-top: 10px;
+}
+.contn .footer2 h3{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 10px;
+}
+
+/* STARTING FROM HERE IS index2.html*/
+.main{
+    text-align: center;
+    background: palegoldenrod;
+}
+.main .ih1{
+    padding-top: 20px;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-variant: small-caps;
+}
+.main .ih2{
+    color: blue;
+}
